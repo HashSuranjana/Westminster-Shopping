@@ -1,0 +1,5 @@
+ProductCategory:Clothing, Frock, C002, L, Red, 17, 5.0
+ProductCategory:Clothing, Trouser, C004, 32, Black, 20, 10.0
+ProductCategory:Electronics, Keyboard, E002, Logitech, 1, 10, 7.0
+ProductCategory:Electronics, Laptop, E004, Dell, 2, 13, 1000.0
+
